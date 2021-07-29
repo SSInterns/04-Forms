@@ -18,3 +18,5 @@ https://www.w3schools.com/tags/tag_form.asp
 2. Przygotuj wersję HTML projektów UI z poprzedniego spotkania
 3. Przygotuj w Figma prototyp UI dla akcji przedstawionych na poniższym schemacie:
 
+![Plumbing](/Plumbing.PNG)
+![Heating](/Heating.PNG)
