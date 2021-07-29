@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        input{
+            margin:5px;
+        }
+        input[type=text],
+        input[type=password],
+        input[type=date],
+        input[type=color]
+        {
+            width:100px;
+        }
+        input[type=number]{
+            width:30px
+        }
+    </style>
+</head>
+<body>
+<form>
+    <input type="text"> <br />   
+    <input type="password"> <br />
+    Znajomość języków:     
+    <label>Angielski<input name="languages" type="checkbox"></label>    
+    <label>Hiszpański<input name="languages" type="checkbox"></label>    
+    <label>Rosyjski<input name="languages" type="checkbox"></label><br />
+    Płeć: 
+    <label>K<input name="sex" type="radio"></label>
+    <label>M<input name="sex" type="radio"></label><br />
+    <input type="number"><br />
+    <input type="date"><br />
+    <input type="color"><br />
+    <select name="" id="">
+        <option value="1">Pierwsza opcja</option>
+        <option value="2">Druga opcja</option>
+        <option value="3">Trzecia opcja</option>
+    </select>
+</form>
+</body>
+</html>
