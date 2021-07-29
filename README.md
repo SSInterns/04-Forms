@@ -6,10 +6,10 @@ https://www.w3schools.com/tags/tag_form.asp
 ```html
 <form action="/action_page.php">
   <label for="fname">First name:</label>
-  <input type="text" id="fname" name="fname"><br><br>
+  <input type="text" id="fname" name="fname" /><br><br>
   <label for="lname">Last name:</label>
-  <input type="text" id="lname" name="lname"><br><br>
-  <input type="submit" value="Submit">
+  <input type="text" id="lname" name="lname" /><br><br>
+  <input type="submit" value="Submit" />
 </form>
 ```
 
