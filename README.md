@@ -17,7 +17,7 @@ https://www.w3schools.com/tags/tag_form.asp
 
 ## ZADANIA
 1. Przygotuj testową stronę zawierającą wybrane kontrolki formularzy HTML (20 sztuk, sformatowane w CSS)
-2. Przygotuj wersję HTML projektów UI z poprzedniego spotkania
+2. Przygotuj wersję HTML projektów UI z poprzedniego spotkania. KAMIL: Formularz rejestracji i profil użytkownika
 3. Przygotuj w Figma prototyp UI dla akcji przedstawionych na poniższym schemacie:
 
 OPIS:
