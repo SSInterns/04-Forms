@@ -18,7 +18,7 @@ https://www.w3schools.com/tags/tag_form.asp
 ## ZADANIA
 1. Przygotuj testową stronę zawierającą wybrane kontrolki formularzy HTML (20 sztuk, sformatowane w CSS)
 2. Przygotuj wersję HTML projektów UI z poprzedniego spotkania. KAMIL: Formularz rejestracji i profil użytkownika
-3. Przygotuj w Figma prototyp UI dla akcji przedstawionych na poniższym schemacie: KUBA: Przygotować jeden z poniższych.
+3. Przygotuj w Figma prototyp UI dla akcji przedstawionych na poniższym schemacie: KUBA i KAMIL: Przygotować jeden z poniższych.
 
 OPIS:
 Użytkownik ma wybrać rodzaj instalacji wodnej dla swojego projektu domu. Zakładamy, że plan domu już jest narysowany. Dom posiada kilka pomieszczeń, w tym dwie łazienk i jedną kuchnię, w których mogą być zainstalowane następujące elementy: wanna lub prysznic, umywalka, boiler elektryczny w łazience i zmywarkę, zlew oraz pralkę w kuchni (na zachodzie wuropy pralka często jest w kuchni) dodatkowo można dać użytkownikowi wybór, gdzie chce umieścić pralkę. Zadanie polega na zaprojektowaniu UI/UX zgodnie z zasadami dobrej architektury informacji.
